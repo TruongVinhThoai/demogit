@@ -1,0 +1,3 @@
+git init: khoi tao repository local
+git remote add origin https://github.com/truongthoai/demo_git.git :
+lien ket repo local va repo remote
