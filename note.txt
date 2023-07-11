@@ -1,3 +1,7 @@
 git init: khoi tao repository local
 git remote add origin https://github.com/truongthoai/demo_git.git :
 lien ket repo local va repo remote
+day code tu local len remote gom 3 buoc
+- git add -A: chon
+-  git commit -m "noidung": xac nhan va ghi kem chu thich
+- git push -u origin master
