@@ -6,3 +6,11 @@ day code tu local len remote gom 3 buoc
 -  git commit -m "noidung": xac nhan va ghi kem chu thich
 - git push -u origin master: day lan dau
 - git push: lan 2 tro di
+
++ setup account
+git config user.name "....""
+git config user.email "....."
+
+- branch: nhanh
+- git checkout -b .... : tao ra nhanh ... tu nhanh hien tai
+- git merge ...: dua code tu nhanh ... ve nhanh hien tai
