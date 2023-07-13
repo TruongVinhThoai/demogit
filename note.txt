@@ -1,5 +1,5 @@
-git init: khoi tao repository local
-git remote add origin https://github.com/truongthoai/demo_git.git :
+- git init: khoi tao repository local
+- git remote add origin https://github.com/truongthoai/demo_git.git :
 lien ket repo local va repo remote
 day code tu local len remote gom 3 buoc
 - git add -A: chon
@@ -14,3 +14,8 @@ git config user.email "....."
 - branch: nhanh
 - git checkout -b .... : tao ra nhanh ... tu nhanh hien tai
 - git merge ...: dua code tu nhanh ... ve nhanh hien tai
+
+- git clone https + . : clone source vao folder hien tai
+- git pull: lay code moi nhat tu remote
+- git log: xem danh sach cac lenh commit
+- git stash: khoi phuc code ve lan commit gan nhat
