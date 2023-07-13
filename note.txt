@@ -19,3 +19,6 @@ git config user.email "....."
 - git pull: lay code moi nhat tu remote
 - git log: xem danh sach cac lenh commit
 - git stash: khoi phuc code ve lan commit gan nhat
+
+- git fetch
+- git checkout login
